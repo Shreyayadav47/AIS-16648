@@ -41,7 +41,6 @@ Notebook 4 - for loop
 
 Notebook 5 - while loop
 
-
 Day 3
 
 Notebook 1 Break Statement
@@ -55,3 +54,13 @@ Mean ,Median ,Mode, Variance, Standerd deviation, Quartile range, Coeficient of 
 
 Notebook 5
 Odd, Even, And, Or, Not, Grades
+
+Day 4
+
+Notebook 1- numpy getting started, numpy crating arrays, numpy array indexing, numpy array slicing, numpy data type, numpy copy as view,
+numpy array shape, numpy array reshap, numpy array lterating, numpy array join, numpy array split, numpy array search, numpy array sort, 
+numpy array filter
+
+Notebook 2- 
+Numpy Random :- normal distribution, bionamial distribution, poission distribution, uniform distribution, logistics distribution, multinomial distribution, 
+exponential distribution, chi square distribution, rayleigh distribution, pareto distribution.
