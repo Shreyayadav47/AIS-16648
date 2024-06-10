@@ -1,24 +1,22 @@
-Day 2 
+Day 1 - Notebook 1 - variablr decleration rule
 
-Notebook 1 - If conditions
-1) Equals: a == b
-2) not Equals: a != b
-3) Less than: a < b
-4) Less than or equal to: a <= b
-5) Greater than: a > b
-6) Greater than or equal to: a >= b
+Avariable name with a letter or an underscore character.
+A variable cannot start with a number
+A variable names can only contain alphanumeric characters and underscore (A-Z,0-9,and)
+4.A variable sensetive (eg.name .Name ,and NAME athree different variables)incles
+Notebook 2 - operators arithmetic operators logical operators assignment operators comparison operators Identity Operators Membership Operators
 
-Notebook 2 - If elif condition 
-1) The elif keyword is Python's way of saying "if the previous conditions were not true, then try this condition".
-2) In this example a is equal to b, so the first condition is not true, but the elif condition is true, so we print to screen that "a and b are equal".
+Notebook 3 - list and method Access List Items Change List Items Add List Items Remove List Items Loop Lists List Comprehension Sort List Alphanumerically Copy Lists Join Lists List Methods
 
-Notebook 3 - If else condition 
-1) The else keyword catches anything which isn't caught by the preceding conditions.
-   
-Notebook 4 - for loop
+Notebook 4 - tuple and method Access Tuple Items Update Tuples Update Tuples Unpack Tuples Join Tuples Tuple Methods
 
-Notebook 5 - while loop  
+Notebook 5 - set and method Access set Items Add Set Items Remove Set Items Loop Sets Join Sets Set Methods
 
+Notebook 6 - dictionary and method Access Dictionary Items Change Dictionary Items Add Dictionary Ite Remove Dictionary Items Loop Dictionaries Copy Dictionaries Nested Dictionaries Dictionary Methods
+
+Notebook 7 - number and method
+
+Notebook 8 - string and method Slicing Strings Modify Strings String Concatenation Format - Strings Escape Characters
    
 
    
