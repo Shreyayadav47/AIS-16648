@@ -16,17 +16,9 @@ Notebook 3 - If else condition
 1) The else keyword catches anything which isn't caught by the preceding conditions.
    
 Notebook 4 - for loop
-1) A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
-2) Looping Through a String
-3) The break Statement
-4) The continue Statement
-5) The range() Function
-6) Else in For Loop
 
 Notebook 5 - while loop  
-1) The break Statement
-2) The continue Statement
-3) The else Statement
+
    
 
    
