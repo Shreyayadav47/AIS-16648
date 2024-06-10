@@ -40,4 +40,18 @@ The else keyword catches anything which isn't caught by the preceding conditions
 Notebook 4 - for loop
 
 Notebook 5 - while loop
-   
+
+
+Day 3
+
+Notebook 1 Break Statement
+
+Notebook 2 Pass statement
+
+Notebook 3 continue statement
+
+Notebook 4
+Mean ,Median ,Mode, Variance, Standerd deviation, Quartile range, Coeficient of variation, Average, amin, amax
+
+Notebook 5
+Odd, Even, And, Or, Not, Grades
