@@ -18,5 +18,24 @@ Notebook 7 - number and method
 
 Notebook 8 - string and method Slicing Strings Modify Strings String Concatenation Format - Strings Escape Characters
    
+Day 2
 
+Notebook 1 - If conditions
+
+Equals: a == b
+not Equals: a != b
+Less than: a < b
+Less than or equal to: a <= b
+Greater than: a > b
+Greater than or equal to: a >= b
+Notebook 2 - If elif condition
+
+The elif keyword is Python's way of saying "if the previous conditions were not true, then try this condition".
+In this example a is equal to b, so the first condition is not true, but the elif condition is true, so we print to screen that "a and b are equal".
+Notebook 3 - If else condition
+
+The else keyword catches anything which isn't caught by the preceding conditions.
+Notebook 4 - for loop
+
+Notebook 5 - while loop
    
