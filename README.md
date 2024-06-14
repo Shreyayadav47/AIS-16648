@@ -98,7 +98,8 @@ Day 6
 
 Notebook 1 -  Matplotlib library
 
-    Matplotli pyplot, Matplotli plotting, Matplotli markers, Matplotli line, Matplotli lable, Matplotli gris, Matplotli subplot,
+    Matplotli pyplot, Matplotli plotting, Matplotli markers, Matplotli line, 
+    Matplotli lable, Matplotli gris, Matplotli subplot,
     Matplotli bars, Matplotli histogram,pie chart
 
 Notebook 2 - Seaborn library
