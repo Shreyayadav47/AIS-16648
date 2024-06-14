@@ -64,3 +64,34 @@ numpy array filter
 Notebook 2- 
 Numpy Random :- normal distribution, bionamial distribution, poission distribution, uniform distribution, logistics distribution, multinomial distribution, 
 exponential distribution, chi square distribution, rayleigh distribution, pareto distribution.
+
+Day 5
+
+Notebook 1 - Series 
+
+create and operation 
+
+Notebook 2 - DataFrame
+
+1) DataFrame read CSV and xlsx file
+2)  DataFrame create using : matrix, dic
+
+Notebook 2 - DataFrame operation
+
+value count,apply, unique,nunique,describe,etc
+
+Notebook 3 - selection
+
+1) DataFrame col,raw selection
+2) conditional selection
+3) column add,delete ,update
+4) index,remove index
+5) operation ( +, -,* ,/ )
+   
+Notebook 3 - Missing value 
+
+1) missing value cheking
+2) missing value drop by row and by col
+3) missing value fill(mean,median)
+   
+
