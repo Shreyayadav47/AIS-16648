@@ -93,5 +93,17 @@ Notebook 3 - Missing value
 1) missing value cheking
 2) missing value drop by row and by col
 3) missing value fill(mean,median)
+
+Day 6 
+
+Notebook 1 -  Matplotlib library
+
+    Matplotli pyplot, Matplotli plotting, Matplotli markers, Matplotli line, Matplotli lable, Matplotli gris, Matplotli subplot,
+    Matplotli bars, Matplotli histogram,pie chart
+
+Notebook 2 - Seaborn library
+
+Seaborn Scatter diagram, Seaborn pie chart ,Seaborn histogram, Seaborn bars.
+
    
 
