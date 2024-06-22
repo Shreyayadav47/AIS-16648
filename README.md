@@ -106,5 +106,17 @@ Notebook 2 - Seaborn library
 
 Seaborn Scatter diagram, Seaborn pie chart ,Seaborn histogram, Seaborn bars.
 
+Day 7
+
+Notebook 1
+Numpy Exercise
+
+Notebook 2
+Ecommerce Purchases Exsecise
+
+Notebook 3
+SF Salaries Exercise
+
+
    
 
