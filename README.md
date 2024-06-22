@@ -1,4 +1,4 @@
-Day 1 - Notebook 1 - variablr decleration rule
+# Day 1 - Notebook 1 - variablr decleration rule
 
 Avariable name with a letter or an underscore character.
 A variable cannot start with a number
@@ -18,7 +18,7 @@ Notebook 7 - number and method
 
 Notebook 8 - string and method Slicing Strings Modify Strings String Concatenation Format - Strings Escape Characters
    
-Day 2
+# Day 2
 
 Notebook 1 - If conditions
 
@@ -41,7 +41,7 @@ Notebook 4 - for loop
 
 Notebook 5 - while loop
 
-Day 3
+# Day 3
 
 Notebook 1 Break Statement
 
@@ -55,7 +55,7 @@ Mean ,Median ,Mode, Variance, Standerd deviation, Quartile range, Coeficient of 
 Notebook 5
 Odd, Even, And, Or, Not, Grades
 
-Day 4
+# Day 4
 
 Notebook 1- numpy getting started, numpy crating arrays, numpy array indexing, numpy array slicing, numpy data type, numpy copy as view,
 numpy array shape, numpy array reshap, numpy array lterating, numpy array join, numpy array split, numpy array search, numpy array sort, 
@@ -65,7 +65,7 @@ Notebook 2-
 Numpy Random :- normal distribution, bionamial distribution, poission distribution, uniform distribution, logistics distribution, multinomial distribution, 
 exponential distribution, chi square distribution, rayleigh distribution, pareto distribution.
 
-Day 5
+# Day 5
 
 Notebook 1 - Series 
 
@@ -94,7 +94,7 @@ Notebook 3 - Missing value
 2) missing value drop by row and by col
 3) missing value fill(mean,median)
 
-Day 6 
+# Day 6 
 
 Notebook 1 -  Matplotlib library
 
@@ -106,7 +106,7 @@ Notebook 2 - Seaborn library
 
 Seaborn Scatter diagram, Seaborn pie chart ,Seaborn histogram, Seaborn bars.
 
-Day 7
+# Day 7
 
 Notebook 1
 Numpy Exercise
@@ -117,6 +117,44 @@ Ecommerce Purchases Exsecise
 Notebook 3
 SF Salaries Exercise
 
+# Case Study 
 
+Dowload titanic data - 
+
+1) Read data and import necessary libraries
+2) Find Missing Values, Fill or Drop
+3) Drop variables if needed
+4) Label Encoding for Categorical Variable
+
+ Visualisation - Bar plot , Scatter plot , Joint bar plot , Pai chart
+
+ Model Building -
+ 
+ 5) choose dependent & independent variables
+ 6) Split Data into Train and Test Sets (80:20)
+ 7) Import Naive Bay's Algorithm (Gaussian Naive Bay's)
+ 8) Fit naive bays model on train data
+ 9) Predict Test Data Using Fitted Model
+
+ Model Evaluation - 
+ 
+ 10) Find Accuracy
+ 11) Find Classification Report
+ 12) Find Confusion Matrix
+
+ Repeat Similar Process for KNN Algorithm and Decision Tree - 
+ 
+ 8) KNN Algorithm
+ 8) decision tree
+
+Comparison - 
+
+Naive bays , Knn , decision tree compair , Accuracy , Recall , Precision.  
+
+
+
+ 
+ 
+ 
    
 
