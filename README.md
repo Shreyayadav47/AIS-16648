@@ -119,7 +119,7 @@ Ecommerce Purchases Exsecise
 Notebook 3
 SF Salaries Exercise
 
-# Case Study 1) 
+# Case Study - 1) 
 
 Dowload titanic data - 
 
