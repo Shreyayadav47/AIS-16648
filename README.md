@@ -1,4 +1,6 @@
-# Day 1 - Notebook 1 - variablr decleration rule
+# Day 1 -
+
+Notebook 1 - variablr decleration rule
 
 Avariable name with a letter or an underscore character.
 A variable cannot start with a number
