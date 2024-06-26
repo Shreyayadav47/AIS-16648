@@ -153,6 +153,9 @@ Comparison -
 
 Naive bays , Knn , decision tree compair , Accuracy , Recall , Precision.  
 
+# Task -
+
+Creating Dashboard
 
 
  
