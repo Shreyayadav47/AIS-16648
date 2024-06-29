@@ -158,7 +158,7 @@ Naive bays , Knn , decision tree compair , Accuracy , Recall , Precision.
 Creating Dashboard
 
 # Project - 
-
+Student performance prediction
 
  
  
